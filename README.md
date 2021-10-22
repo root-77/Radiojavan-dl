@@ -1,2 +1,2 @@
 # Radiojavan-dl
-small python script to downloading radiojavan musics
+small python script to downloading radio javan musics
